@@ -1,4 +1,4 @@
-package basic.CountSubstrings;
+package easy.CountSubstrings;
 
 import java.util.*;
 import java.lang.*;
