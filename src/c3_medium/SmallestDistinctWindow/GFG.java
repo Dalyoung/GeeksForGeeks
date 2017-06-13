@@ -1,4 +1,4 @@
-package c3_Medium.SmallestDistinctWindow;
+package c3_medium.SmallestDistinctWindow;
 
 import java.util.*;
 import java.lang.*;
